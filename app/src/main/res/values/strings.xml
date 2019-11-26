@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+    <string-array name="users">
+        <item>Admin/Faculty</item>
+        <item>Admin</item>
+        <item>Faculty</item>
+    </string-array>
+
+    <string-array name="depts">
+        <item>CSE/BBA/SWE</item>
+        <item>CSE</item>
+        <item>BBA</item>
+        <item>SWE</item>
+    </string-array>
+
+    <string-array name="sections">
+        <item>A/B/C/D/E</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+    <string-array name="cources">
+        <item>C++/C/Java/Python</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Java</item>
+        <item>Python</item>
+    </string-array>
+</resources>
